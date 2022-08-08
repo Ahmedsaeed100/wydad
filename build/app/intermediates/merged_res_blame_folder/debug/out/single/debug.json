@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\drawable-hdpi_baghdadi.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\drawable-hdpi\\baghdadi.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_baghdadi.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\baghdadi.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\raw_azan.wav.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\raw\\azan.wav"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\drawable_app_icon.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\drawable-xxhdpi_baghdadi.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\drawable-xxhdpi\\baghdadi.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\drawable-ldpi_baghdadi.jpg.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\drawable-ldpi\\baghdadi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\drawable-xhdpi_baghdadi.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\drawable-xhdpi\\baghdadi.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\drawable-mdpi_baghdadi.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\drawable-mdpi\\baghdadi.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\wydad-master\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
